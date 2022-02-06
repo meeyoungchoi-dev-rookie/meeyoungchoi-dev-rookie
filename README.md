@@ -15,10 +15,15 @@ Here are some ideas to get you started:-->
 
 ![Meeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=meeyoungchoi&show_icons=true&theme=radical)
 
+STUDY
+---
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=meeyoungchoi&repo=TIL&show_icons=true&bg_color=FFFFFF)](https://github.com/meeyoungchoi/TIL)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=meeyoungchoi&repo=javascript_game&show_icons=true&bg_color=FFFFFF)](https://github.com/meeyoungchoi/javascript_game)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=meeyoungchoi&repo=servlet&show_icons=true&bg_color=FFFFFF)](https://github.com/meeyoungchoi/servlet)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=meeyoungchoi&repo=study_java_repository&show_icons=true&bg_color=FFFFFF)](https://github.com/meeyoungchoi/study_java_repository)
+
+TOY PROJECT
+---
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=meeyoungchoi&repo=devlog_blog_project&show_icons=true&bg_color=FFFFFF)](https://github.com/meeyoungchoi/devlog_blog_project)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=meeyoungchoi&repo=spring_bookmall_project&show_icons=true&bg_color=FFFFFF)](https://github.com/meeyoungchoi/spring_bookmall_project)
 
