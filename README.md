@@ -7,6 +7,7 @@
 Here are some ideas to get you started:-->
 - <a href="https://github.com/meeyoungchoi"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
 - <a href="https://devlog.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+- 🥇1일1커밋과 회고를 매일 실천 합니다
 - 🔭 I’m currently working on spring-mvc, spring-boot, javascript
 - 🌱 I’m currently learning JPA, javascript, spring-boot
 - 📫 How to reach me: goodlife1359@gmail.com
