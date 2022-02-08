@@ -22,7 +22,7 @@ STUDY
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=meeyoungchoi&repo=javascript_game&show_icons=true&bg_color=FFFFFF)](https://github.com/meeyoungchoi/javascript_game)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=meeyoungchoi&repo=servlet&show_icons=true&bg_color=FFFFFF)](https://github.com/meeyoungchoi/servlet)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=meeyoungchoi&repo=study_java_repository&show_icons=true&bg_color=FFFFFF)](https://github.com/meeyoungchoi/study_java_repository)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=meeyoungchoi&repo=java_algorithm&show_icons=true&bg_color=FFFFFF)](https://github.com/meeyoungchoi/study_java_repository)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=meeyoungchoi&repo=java_algorithm&show_icons=true&bg_color=FFFFFF)](https://github.com/meeyoungchoi/java_algorithm)
 
 
 
