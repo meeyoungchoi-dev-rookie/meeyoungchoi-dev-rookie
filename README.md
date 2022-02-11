@@ -31,7 +31,7 @@ STUDY
 TOY PROJECT
 ---
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=meeyoungchoi&repo=devlog_blog_project&show_icons=true&bg_color=FFFFFF)](https://github.com/meeyoungchoi/devlog_blog_project)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=meeyoungchoi&repo=devlog_blog_project&show_icons=true&bg_color=FFFFFF)](https://github.com/meeyoungchoi/devlog)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=meeyoungchoi&repo=devlog&show_icons=true&bg_color=FFFFFF)](https://github.com/meeyoungchoi/devlog)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=meeyoungchoi&repo=spring_bookmall_project&show_icons=true&bg_color=FFFFFF)](https://github.com/meeyoungchoi/spring_bookmall_project)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
