@@ -25,6 +25,10 @@ STUDY
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=meeyoungchoi&repo=java_algorithm&show_icons=true&bg_color=FFFFFF)](https://github.com/meeyoungchoi/java_algorithm)
 
 
+TEAM STUDY
+---
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=meeyoungchoi&repo=posting-review&show_icons=true&bg_color=FFFFFF)](https://github.com/Meet-Coder-Study/posting-review)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=meeyoungchoi&repo=BaekjoonOJ-Study&show_icons=true&bg_color=FFFFFF)](https://github.com/Baekjoon-ManJeom/BaekjoonOJ-Study)
 
 
 
