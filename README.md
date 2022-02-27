@@ -28,6 +28,7 @@ TEAM STUDY
 ---
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=meeyoungchoi&repo=posting-review&show_icons=true&bg_color=FFFFFF)](https://github.com/Meet-Coder-Study/posting-review)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=meeyoungchoi&repo=BaekjoonOJ-Study&show_icons=true&bg_color=FFFFFF)](https://github.com/Baekjoon-ManJeom/BaekjoonOJ-Study)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=meeyoungchoi&repo=Tech-Interview-Question&show_icons=true&bg_color=FFFFFF)](https://github.com/omnireader0/Tech-Interview-Question)
 
 
 
