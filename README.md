@@ -17,6 +17,7 @@ Here are some ideas to get you started:-->
 - [운영체제와 메모리 구조](https://unique-wandflower-4cc.notion.site/d11680e42fbd47faaad474c1c578ea9e)
 - [데이터 중심 설계의 문제점](https://unique-wandflower-4cc.notion.site/faffd3fe3fa34bb8b4dcd13aa2b82c06)
 - [스프링을 사용하는 이유와 객체지향](https://unique-wandflower-4cc.notion.site/78a5efa46e1742dca90ca096db4ce474)
+- [스프링 @Bean에 대하여](https://unique-wandflower-4cc.notion.site/spring-Bean-19d52659989d42c689941e0a86811a71)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meeyoungchoi&layout=compact)](https://github.com/meeyoungchoi/github-readme-stats)
 ![Meeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=meeyoungchoi&show_icons=true&theme=radical)
