@@ -21,6 +21,7 @@ Here are some ideas to get you started:-->
 
 ### spring security 관련
 - [인증과 인가 & OAuth](https://unique-wandflower-4cc.notion.site/OAuth-c5ce4a04ff294612b5afb908a818f2c1)
+- [OAuth 인증 흐름](https://unique-wandflower-4cc.notion.site/OAuth-OAuth-a40ca0fefd3840cab6985ec497aeaf57)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meeyoungchoi&layout=compact)](https://github.com/meeyoungchoi/github-readme-stats)
 ![Meeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=meeyoungchoi&show_icons=true&theme=radical)
