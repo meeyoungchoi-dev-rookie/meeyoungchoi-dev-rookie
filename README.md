@@ -23,7 +23,6 @@ Here are some ideas to get you started:-->
 - [OAuth 인증 흐름](https://unique-wandflower-4cc.notion.site/OAuth-OAuth-a40ca0fefd3840cab6985ec497aeaf57)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meeyoungchoi&layout=compact)](https://github.com/meeyoungchoi/github-readme-stats)
-![Meeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=meeyoungchoi&show_icons=true&theme=radical)
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
