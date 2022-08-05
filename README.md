@@ -6,8 +6,6 @@
 
 Here are some ideas to get you started:-->
 - <a href="https://github.com/meeyoungchoi"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
-- 🔭 I’m currently working on spring-boot
-- 🌱 I’m currently learning JPA, spring-boot
 - 📫 How to reach me: goodlife1359@gmail.com
 
 ### 학습한 내용을 정리하기 위한 글
@@ -22,7 +20,6 @@ Here are some ideas to get you started:-->
 - [인증과 인가 & OAuth](https://unique-wandflower-4cc.notion.site/OAuth-c5ce4a04ff294612b5afb908a818f2c1)
 - [OAuth 인증 흐름](https://unique-wandflower-4cc.notion.site/OAuth-OAuth-a40ca0fefd3840cab6985ec497aeaf57)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meeyoungchoi&layout=compact)](https://github.com/meeyoungchoi/github-readme-stats)
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
